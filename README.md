@@ -3,4 +3,4 @@
 ### Lo que intentamos conseguir es justificar la creación de una cuenta de GitHub, crear un fichero python con su hola mundo correspondiente 
 ### y un fichero README.md como primer item de la tarea.
 <a name="general-info">informacion general</a>
-
+![Image text](/path/to/the/screenshot.png)
